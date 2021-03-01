@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.dantrixcompany.core": {
+      "version": "file:Button Package",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.madsbangh.easybuttons": {
       "version": "https://github.com/madsbangh/EasyButtons.git#upm",
       "depth": 0,

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.dantrixcompany.core":"https://github.com/Dantrix555/ButtonsPackageTest.git#upm",
     "com.madsbangh.easybuttons": "https://github.com/madsbangh/EasyButtons.git#upm",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
