@@ -53,5 +53,10 @@ namespace DantrixCompany.Core
         {
             Debug.Log("Hello");
         }
+        
+        public static float TestSuma(float number1, float number2)
+        {
+            return number1 + number2;
+        }
     }
 }
